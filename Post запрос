@@ -1,0 +1,8 @@
+curl --location 'https://api.vk.com/method/photos.createComment' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--header 'Cookie: remixstlid=9112228313668203184_yMi92QDOm6w9Vr3nfQcYpbQ2FZY779yxrwXgIVO4jBc' \
+--data-urlencode 'access_token=vk1.a.7LVPGGGqpWInio5QGnUqrh4-BDqeTlyF-n5GoYPguyTLM2tVE-NOh8lv8M9yKIUN-L74GI0Th5qGFRNz_WCprPFP9oIONZmCRrDq9h5sEURCXkOTrq6meMuI43o1b7ypHqXS7H5I89gM_ExwBJO3onXSLsg0_0CFE_uJyElFRbBH0olFJ-UbOQXYOjb4OiWlSSuMESSFXmZKDUVcBvuj8A' \
+--data-urlencode 'v=5.131' \
+--data-urlencode 'owner_id=-210981032' \
+--data-urlencode 'photo_id=457240823' \
+--data-urlencode 'message=Хочу в Tages!'
